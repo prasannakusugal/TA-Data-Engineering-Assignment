@@ -1,5 +1,5 @@
 ##### I was able to answer only few questions which are on dataset, and I do not have Domain name knowledge of Gaming, So I was not able to answer the question on them
-
+#### I used Jupiternotebook, Python, Pandas, Seaborn and Pyspark for this assignment
 After Checking data set I do not feel we need any prepossessing is not needed, already the data types of fields are also correct
 
 There is only 2 different game versions gate_30 and gate_40, counts of rows for each versions 44700 and 45489 respectively
