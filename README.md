@@ -42,8 +42,8 @@ purchase? How does this average differ by game version?
 this correlation differ by game version?
 - The correlation rate between 	sum_gamerounds and 	retention_1 = 0.197603, sum_gamerounds and	retention_7 = 0.279288 which is not so highly related
   and the correlation change if we look based versions 
--- For Gate_30  	sum_gamerounds and 	retention_1 = 0.14729, sum_gamerounds and	retention_7 = 0.214284
--- For Gate_40     sum_gamerounds and 	retention_1 = 0.380046, sum_gamerounds and	retention_7 = 0.522188 (Comparatively has more correlation rate for Gate_40 version)
+> For Gate_30  	sum_gamerounds and 	retention_1 = 0.14729, sum_gamerounds and	retention_7 = 0.214284
+> For Gate_40     sum_gamerounds and 	retention_1 = 0.380046, sum_gamerounds and	retention_7 = 0.522188 (Comparatively has more correlation rate for Gate_40 version)
 	
 8. Can you identify any trends or patterns in player behaviour, such as differences in
 behaviour by player country, platform, or game version?
